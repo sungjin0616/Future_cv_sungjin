@@ -4,7 +4,7 @@
 ## 인적 사항
 - **이름** : 강성진
 - **이메일** : ksj0616ksj@gmail.com
-- **GitHub** : [https://github.com/sungjin0616](https://github.com/sungjin0616)
+- **GitHub** : https://github.com/sungjin0616
 - **레포지토리** : https://github.com/sungjin0616/Future_cv_sungjin
 
 ## 자기소개 
